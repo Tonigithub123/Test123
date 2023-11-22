@@ -23,113 +23,113 @@ WebUI.navigateToUrl('https://www.mitsuilease.co.id/')
 
 WebUI.delay(3)
 
-WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/1.Test Profil/1.png')
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/1.Test Profil/1.Beranda.png')
 
-WebUI.click(findTestObject('Object Repository/Test Profil/Page_Mitsui Leasing Capital Indonesia/a_PROFIL'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Test Profil/Page_Mitsui Leasing Capital Indonesia/a_Tentang Mitsui Leasing'))
-
-WebUI.delay(3)
-
-WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/1.Test Profil/2.png')
-
-WebUI.click(findTestObject('Object Repository/Test Profil/Page_Mitsui Leasing Capital Indonesia/a_PROFIL'))
-
-WebUI.click(findTestObject('Object Repository/Test Profil/Page_Mitsui Leasing Capital Indonesia/a_Misi, Visi dan Nilai'))
+WebUI.click(findTestObject('null'))
 
 WebUI.delay(3)
 
-WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/1.Test Profil/3.png')
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/1.Test Profil/2.Tentang Mitsui.png')
 
-WebUI.click(findTestObject('Object Repository/Test Profil/Page_Mitsui Leasing Capital Indonesia/a_PROFIL'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Test Profil/Page_Mitsui Leasing Capital Indonesia/a_Struktur Organisasi'))
-
-WebUI.delay(3)
-
-WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/1.Test Profil/4.png')
-
-WebUI.click(findTestObject('Object Repository/Test Profil/Page_Mitsui Leasing Capital Indonesia/a_PROFIL'))
-
-WebUI.click(findTestObject('Object Repository/Test Profil/Page_Mitsui Leasing Capital Indonesia/a_Manajemen'))
+WebUI.click(findTestObject('null'))
 
 WebUI.delay(3)
 
-WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/1.Test Profil/5.png')
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/1.Test Profil/3.Visi, Misi dan Nilai.png')
 
-WebUI.click(findTestObject('Object Repository/Test Profil/Page_Mitsui Leasing Capital Indonesia/a_PROFIL'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Test Profil/Page_Mitsui Leasing Capital Indonesia/a_Laporan Tahunan'))
-
-WebUI.delay(3)
-
-WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/1.Test Profil/6.png')
-
-WebUI.click(findTestObject('Object Repository/Test Profil/Page_Mitsui Leasing Capital Indonesia/a_PROFIL'))
-
-WebUI.click(findTestObject('Object Repository/Test Profil/Page_Mitsui Leasing Capital Indonesia/a_Tata Kelola'))
+WebUI.click(findTestObject('null'))
 
 WebUI.delay(3)
 
-WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/1.Test Profil/7.png')
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/1.Test Profil/4.Struktur Organisasi.png')
 
-WebUI.click(findTestObject('Object Repository/Test Profil/Page_Mitsui Leasing Capital Indonesia/a_PROFIL'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Test Profil/Page_Mitsui Leasing Capital Indonesia/a_Kegiatan Perusahaan'))
-
-WebUI.click(findTestObject('Object Repository/Test Profil/Page_Mitsui Leasing Capital Indonesia/a_Tanggung Jawab Sosial Lingkungan'))
+WebUI.click(findTestObject('null'))
 
 WebUI.delay(3)
 
-WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/1.Test Profil/8.png')
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/1.Test Profil/5.Manajemen.png')
 
-WebUI.click(findTestObject('Object Repository/Test Profil/Page_Mitsui Leasing Capital Indonesia/a_PROFIL'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Test Profil/Page_Mitsui Leasing Capital Indonesia/a_Kegiatan Perusahaan'))
-
-WebUI.click(findTestObject('Object Repository/Test Profil/Page_Mitsui Leasing Capital Indonesia/a_Berita dan Acara'))
+WebUI.click(findTestObject('null'))
 
 WebUI.delay(3)
 
-WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/1.Test Profil/9.png')
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/1.Test Profil/6.Laporan Tahunan.png')
 
-WebUI.click(findTestObject('Object Repository/Test Profil/Page_Mitsui Leasing Capital Indonesia/a_PROFIL'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Test Profil/Page_Mitsui Leasing Capital Indonesia/a_Kantor Mitsui Leasing'))
-
-WebUI.click(findTestObject('Object Repository/Test Profil/Page_Mitsui Leasing Capital Indonesia/a_Kantor Pusat'))
+WebUI.click(findTestObject('null'))
 
 WebUI.delay(3)
 
-WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/1.Test Profil/10.png')
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/1.Test Profil/7.Tata Kelola.png')
 
-WebUI.click(findTestObject('Object Repository/Test Profil/Page_Mitsui Leasing Capital Indonesia/a_PROFIL'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Test Profil/Page_Mitsui Leasing Capital Indonesia/a_Kantor Mitsui Leasing'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Test Profil/Page_Mitsui Leasing Capital Indonesia/a_Kantor Cabang'))
-
-WebUI.delay(3)
-
-WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/1.Test Profil/11.png')
-
-WebUI.click(findTestObject('Object Repository/Test Profil/Page_Mitsui Leasing Capital Indonesia/a_PROFIL'))
-
-WebUI.click(findTestObject('Object Repository/Test Profil/Page_Mitsui Leasing Capital Indonesia/a_Kantor Mitsui Leasing'))
-
-WebUI.click(findTestObject('Object Repository/Test Profil/Page_Mitsui Leasing Capital Indonesia/a_Kantor Selain Kantor Cabang (KSKC)'))
+WebUI.click(findTestObject('null'))
 
 WebUI.delay(3)
 
-WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/1.Test Profil/12.png')
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/1.Test Profil/8.Tanggung Jawab Sosial Lingkungan.png')
 
-WebUI.click(findTestObject('Object Repository/Test Profil/Page_Mitsui Leasing Capital Indonesia/a_PROFIL'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Test Profil/Page_Mitsui Leasing Capital Indonesia/a_Laporan Keberlanjutan'))
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
 
 WebUI.delay(3)
 
-WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/1.Test Profil/13.png')
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/1.Test Profil/9.Berita dan Acara.png')
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/1.Test Profil/10.Kantor Pusat.png')
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/1.Test Profil/11.Kantor Cabang.png')
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/1.Test Profil/12.Kantor Selain Kantor Cabang.png')
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/1.Test Profil/13.Laporan Keberlanjutan.png')
 
 WebUI.closeBrowser()
 

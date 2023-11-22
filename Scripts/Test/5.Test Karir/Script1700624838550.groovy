@@ -21,19 +21,19 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.mitsuilease.co.id/')
 
-WebUI.click(findTestObject('Object Repository/Test Karir/Page_Mitsui Leasing Capital Indonesia/a_KARIR'))
+WebUI.click(findTestObject('null'))
 
 WebUI.delay(3)
 
-WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/5.Test Karir/1.png')
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/5.Test Karir/1.Karir.png')
 
-WebUI.click(findTestObject('Object Repository/Test Karir/Page_Mitsui Leasing Capital Indonesia/span_Karir_btn-title'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Test Karir/Page_Mitsui Leasing Capital Indonesia/span_Karir_btn-title'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Test Karir/Page_Mitsui Leasing Capital Indonesia/span_Karir_btn-title'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Test Karir/Page_Mitsui Leasing Capital Indonesia/span_Karir_btn-title'))
+WebUI.click(findTestObject('null'))
 
 WebUI.closeBrowser()
 

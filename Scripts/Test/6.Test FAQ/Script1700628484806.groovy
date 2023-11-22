@@ -21,15 +21,15 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.mitsuilease.co.id/')
 
-WebUI.click(findTestObject('Object Repository/Test FAQ/Page_Mitsui Leasing Capital Indonesia/a_FAQ'))
+WebUI.click(findTestObject('null'))
 
 WebUI.delay(3)
 
-WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/6.Test FAQ/1.png')
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/6.Test FAQ/1.FAQ.png')
 
-WebUI.click(findTestObject('Object Repository/Test FAQ/Page_Mitsui Leasing Capital Indonesia/span_FAQ_btn-title'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Test FAQ/Page_Mitsui Leasing Capital Indonesia/span_FAQ_btn-title'))
+WebUI.click(findTestObject('null'))
 
 WebUI.closeBrowser()
 

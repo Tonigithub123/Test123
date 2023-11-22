@@ -21,45 +21,45 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.mitsuilease.co.id/')
 
-WebUI.click(findTestObject('Object Repository/Test Layanan Konsumen/Page_Mitsui Leasing Capital Indonesia/a_LAYANAN KONSUMEN'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Test Layanan Konsumen/Page_Mitsui Leasing Capital Indonesia/a_KomentarSaran'))
-
-WebUI.delay(3)
-
-WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/4.Test Layanan Konsumen/1.png')
-
-WebUI.click(findTestObject('Object Repository/Test Layanan Konsumen/Page_Mitsui Leasing Capital Indonesia/a_LAYANAN KONSUMEN'))
-
-WebUI.click(findTestObject('Object Repository/Test Layanan Konsumen/Page_Mitsui Leasing Capital Indonesia/a_Contact Us'))
+WebUI.click(findTestObject('null'))
 
 WebUI.delay(3)
 
-WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/4.Test Layanan Konsumen/2.png')
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/4.Test Layanan Konsumen/1.Komentar Saran.png')
 
-WebUI.click(findTestObject('Object Repository/Test Layanan Konsumen/Page_Mitsui Leasing Capital Indonesia/a_LAYANAN KONSUMEN'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Test Layanan Konsumen/Page_Mitsui Leasing Capital Indonesia/a_Prosedur Pengaduan Konsumen'))
-
-WebUI.delay(3)
-
-WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/4.Test Layanan Konsumen/3.png')
-
-WebUI.click(findTestObject('Object Repository/Test Layanan Konsumen/Page_Mitsui Leasing Capital Indonesia/a_LAYANAN KONSUMEN'))
-
-WebUI.click(findTestObject('Object Repository/Test Layanan Konsumen/Page_Mitsui Leasing Capital Indonesia/a_Lembaga Alternatif Penyelesaian Sengketa (LAPS)'))
+WebUI.click(findTestObject('null'))
 
 WebUI.delay(3)
 
-WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/4.Test Layanan Konsumen/4.png')
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/4.Test Layanan Konsumen/2.Contact Us.png')
 
-WebUI.click(findTestObject('Object Repository/Test Layanan Konsumen/Page_Mitsui Leasing Capital Indonesia/a_LAYANAN KONSUMEN'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Test Layanan Konsumen/Page_Mitsui Leasing Capital Indonesia/a_Ringkasan Informasi Produk dan Layanan Ve_100725'))
+WebUI.click(findTestObject('null'))
 
 WebUI.delay(3)
 
-WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/4.Test Layanan Konsumen/5.png')
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/4.Test Layanan Konsumen/3.Prosedur Pengaduan Konsumen.png')
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/4.Test Layanan Konsumen/4.LAPS.png')
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/4.Test Layanan Konsumen/5.Ringkasan Informasi Produk dan Layanan.png')
 
 WebUI.closeBrowser()
 
