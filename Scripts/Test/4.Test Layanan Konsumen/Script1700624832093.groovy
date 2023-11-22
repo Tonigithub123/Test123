@@ -29,17 +29,6 @@ WebUI.delay(3)
 
 WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/4.Test Layanan Konsumen/1.png')
 
-WebUI.setText(findTestObject('Object Repository/Test Layanan Konsumen/Page_Mitsui Leasing Capital Indonesia/input_KomentarSaran_name'), 
-    'Toni')
-
-WebUI.setText(findTestObject('Object Repository/Test Layanan Konsumen/Page_Mitsui Leasing Capital Indonesia/input_KomentarSaran_email'), 
-    'ahmadsultoni@gmail.com')
-
-WebUI.setText(findTestObject('Object Repository/Test Layanan Konsumen/Page_Mitsui Leasing Capital Indonesia/textarea_KomentarSaran_message'), 
-    'Semangat')
-
-WebUI.click(findTestObject('Object Repository/Test Layanan Konsumen/Page_Mitsui Leasing Capital Indonesia/input_KomentarSaran_submit-comment'))
-
 WebUI.click(findTestObject('Object Repository/Test Layanan Konsumen/Page_Mitsui Leasing Capital Indonesia/a_LAYANAN KONSUMEN'))
 
 WebUI.click(findTestObject('Object Repository/Test Layanan Konsumen/Page_Mitsui Leasing Capital Indonesia/a_Contact Us'))
