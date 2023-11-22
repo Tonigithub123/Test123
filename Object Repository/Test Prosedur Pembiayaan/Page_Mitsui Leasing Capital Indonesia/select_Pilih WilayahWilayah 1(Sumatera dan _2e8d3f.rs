@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Pilih WilayahWilayah 1(Sumatera dan _2e8d3f</name>
+   <tag></tag>
+   <elementGuidId>277f7c66-54d4-4709-adef-956b628d0a39</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='wilayah']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#wilayah</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>fac627ad-1a2e-4382-8ef8-7d7d5b5e481b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>wilayah</value>
+      <webElementGuid>f7aad2a5-3219-475e-a944-14450fdec278</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>wilayah</value>
+      <webElementGuid>955597e2-f3b1-44a8-b233-caa847b6f371</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>valid form-control</value>
+      <webElementGuid>f3fbb9ef-4d63-4268-8039-02ada3528759</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                    Pilih WilayahWilayah 1(Sumatera dan kepulauan di sekitarnya)Wilayah 2(DKI Jakarta, Banten, Jawa Barat)Wilayah 3(Selain Wilayah 1 dan 2)                                                </value>
+      <webElementGuid>dd1d23ac-73d0-4cf0-a2ba-ae94300d17f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wilayah&quot;)</value>
+      <webElementGuid>f88331b8-d4bf-4a99-a074-a759acab9f5c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='wilayah']</value>
+      <webElementGuid>2d74cee5-d2d5-4bcb-8f59-66d14cb93ffa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contact-form']/form/div[8]/div[2]/p/select</value>
+      <webElementGuid>22851f60-2cde-4a11-b411-d62e7621edd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wilayah Asuransi'])[1]/following::select[1]</value>
+      <webElementGuid>1ae9ef67-6ecc-4efa-850c-a8360579299c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jangka Waktu Kredit (Bulan)'])[1]/following::select[2]</value>
+      <webElementGuid>31319d81-8dee-464c-ba1e-120315c20b7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*Syarat dan ketentuan yang berlaku'])[1]/preceding::select[1]</value>
+      <webElementGuid>b5696ef8-23a2-4bda-b272-aa4a364e47a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beranda'])[1]/preceding::select[1]</value>
+      <webElementGuid>a99ee1f7-55e5-463c-87a2-d16d78e68b92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div[2]/p/select</value>
+      <webElementGuid>4257ecad-c795-4bfa-b639-74b21c4eb118</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'wilayah' and @id = 'wilayah' and (text() = '
+                                                    Pilih WilayahWilayah 1(Sumatera dan kepulauan di sekitarnya)Wilayah 2(DKI Jakarta, Banten, Jawa Barat)Wilayah 3(Selain Wilayah 1 dan 2)                                                ' or . = '
+                                                    Pilih WilayahWilayah 1(Sumatera dan kepulauan di sekitarnya)Wilayah 2(DKI Jakarta, Banten, Jawa Barat)Wilayah 3(Selain Wilayah 1 dan 2)                                                ')]</value>
+      <webElementGuid>727f2a44-28e6-4500-bcd3-4bf1b79cdf70</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

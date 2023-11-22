@@ -17,3 +17,23 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.mitsuilease.co.id/')
+
+WebUI.click(findTestObject('Object Repository/Test Karir/Page_Mitsui Leasing Capital Indonesia/a_KARIR'))
+
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/5.Test Karir/1.png')
+
+WebUI.click(findTestObject('Object Repository/Test Karir/Page_Mitsui Leasing Capital Indonesia/span_Karir_btn-title'))
+
+WebUI.click(findTestObject('Object Repository/Test Karir/Page_Mitsui Leasing Capital Indonesia/span_Karir_btn-title'))
+
+WebUI.click(findTestObject('Object Repository/Test Karir/Page_Mitsui Leasing Capital Indonesia/span_Karir_btn-title'))
+
+WebUI.click(findTestObject('Object Repository/Test Karir/Page_Mitsui Leasing Capital Indonesia/span_Karir_btn-title'))
+
+WebUI.closeBrowser()
+

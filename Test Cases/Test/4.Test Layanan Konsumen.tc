@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Test 1</name>
+   <name>4.Test Layanan Konsumen</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>4fec56d2-6c4e-4312-ac47-f4daa46cf089</testCaseGuid>
+   <testCaseGuid>1ba0eb0e-9796-4b1e-88c5-67e552aeecd8</testCaseGuid>
 </TestCaseEntity>
