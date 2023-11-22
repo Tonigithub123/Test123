@@ -23,5 +23,9 @@ WebUI.navigateToUrl('https://www.mitsuilease.co.id/')
 
 WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS/REP06_Website MLCI_AS_FAQ/Website MLCI_01_FAQ'))
 
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/6.Test FAQ/1.FAQ.png')
+
 WebUI.closeBrowser()
 
