@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Website MLCI_07_Tata Kelola</name>
+   <tag></tag>
+   <elementGuidId>16cd3695-af8c-43a1-a167-a6ef1fe20742</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/section/div/div/div/div/div/ul/li[6]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b05a298e-476c-41e9-b4cc-f8c79b5b953d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.mitsuilease.co.id/tatakelola</value>
+      <webElementGuid>fe1f31a9-f130-4dfa-a6dd-dbf2ad7c5337</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tata Kelola</value>
+      <webElementGuid>6ffd2760-5b74-4a53-8f98-0fae7c7c3fef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/section[@class=&quot;kopa-area kopa-area-31&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 col-sm-2 col-xs-12&quot;]/div[@class=&quot;widget clearfix widget_nav_menu&quot;]/div[@class=&quot;menu-menu-container&quot;]/ul[@class=&quot;menu&quot;]/li[@class=&quot;menu-item menu-item-type-post_type menu-item-object-page&quot;]/a[1]</value>
+      <webElementGuid>8d5736e3-a93d-44b9-99d5-abc7365d6674</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/section/div/div/div/div/div/ul/li[6]/a</value>
+      <webElementGuid>38d91c78-ee43-4659-b5ee-4e4246d173a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Tata Kelola')])[3]</value>
+      <webElementGuid>ea84a408-7596-424d-a46f-fb44ac8cb8f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporan Tahunan'])[4]/following::a[1]</value>
+      <webElementGuid>736bfaf3-18a9-435a-8e6b-86a68fafc1ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manajemen'])[3]/following::a[2]</value>
+      <webElementGuid>5ca7a2ba-1bfc-44ac-9785-63f16db2f0c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggung Jawab Sosial Lingkungan'])[3]/preceding::a[2]</value>
+      <webElementGuid>d1ff9217-6b78-4660-9199-20acd4a3240a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berita dan Acara'])[3]/preceding::a[3]</value>
+      <webElementGuid>fdf438c9-d444-40de-b07c-ead920df6089</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.mitsuilease.co.id/tatakelola')])[3]</value>
+      <webElementGuid>c8b2ca49-fbfc-4289-999f-c9656dd339cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[6]/a</value>
+      <webElementGuid>3a206e67-d33c-4ba5-a7f8-0953999e3622</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.mitsuilease.co.id/tatakelola' and (text() = 'Tata Kelola' or . = 'Tata Kelola')]</value>
+      <webElementGuid>28a79f81-3832-4194-bc88-7eb52f44dbdb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

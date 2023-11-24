@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Website MLCI_05_Struktur Organisasi</name>
+   <tag></tag>
+   <elementGuidId>bc3f0b87-8597-458a-8536-4d72e7bbf73b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/section/div/div/div/div/div/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>de9c4f7f-aff2-49ed-a25d-3df72bcd6f22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.mitsuilease.co.id/struk_org</value>
+      <webElementGuid>a17ac2b6-f2fc-4c6b-8937-a4781f26b6e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Struktur Organisasi</value>
+      <webElementGuid>3f3d09c5-d4db-4474-b8fc-838c3114aa90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/section[@class=&quot;kopa-area kopa-area-31&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 col-sm-2 col-xs-12&quot;]/div[@class=&quot;widget clearfix widget_nav_menu&quot;]/div[@class=&quot;menu-menu-container&quot;]/ul[@class=&quot;menu&quot;]/li[@class=&quot;menu-item menu-item-type-post_type menu-item-object-page&quot;]/a[1]</value>
+      <webElementGuid>a55d4f81-87ab-4630-9663-4dfaacb9528d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/section/div/div/div/div/div/ul/li[3]/a</value>
+      <webElementGuid>cfdb807b-ed06-49f1-bfb6-4ddfb00440a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Struktur Organisasi')])[3]</value>
+      <webElementGuid>f69d394d-5fff-4825-b88d-7251b2989c72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Misi, Visi dan Nilai'])[4]/following::a[1]</value>
+      <webElementGuid>244de503-ba15-479c-aa69-9f8c8537a96d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Mitsui Leasing'])[3]/following::a[2]</value>
+      <webElementGuid>19148894-730b-4574-a0a4-ef33e651b9ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manajemen'])[3]/preceding::a[1]</value>
+      <webElementGuid>8bbec43a-d863-4da2-b129-681a39c58715</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporan Tahunan'])[3]/preceding::a[2]</value>
+      <webElementGuid>153d06ac-556c-4432-9298-cec9c9291a91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.mitsuilease.co.id/struk_org')])[3]</value>
+      <webElementGuid>9ca799e4-ebd6-4f00-8479-115d518d1b97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[3]/a</value>
+      <webElementGuid>fc629a57-2ae9-49bc-8e22-e8db0d5226a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.mitsuilease.co.id/struk_org' and (text() = 'Struktur Organisasi' or . = 'Struktur Organisasi')]</value>
+      <webElementGuid>71331963-203f-4321-b982-a7ea30de5fea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

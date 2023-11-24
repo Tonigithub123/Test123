@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Website MLCI_18_Artikel 4</name>
+   <tag></tag>
+   <elementGuidId>7f1ba9ef-f8a2-416a-bf88-dfc7ef899aaa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tab1']/div/div[4]/div/div/p[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7b5f4544-1855-46bc-8fb3-31b20e671ddd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>590d4cb5-cc2c-4a14-b0da-1a3fa8b7de9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.mitsuilease.co.id/companys-activity-news-and-program/2</value>
+      <webElementGuid>962b8b02-d9e8-4b17-9e71-4b8825eafd2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8046e2dd-f99d-4971-b8eb-7fb71547e57e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                                                                                            Selengkapnya
+                                                                                                                    </value>
+      <webElementGuid>f4e9ee91-d9a4-4694-89b2-b85f1526eeb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab1&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-4&quot;]/div[@class=&quot;thumbnail&quot;]/div[@class=&quot;caption&quot;]/p[2]/a[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>a06f5303-5489-4291-8dd7-29f47183d7fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab1']/div/div[4]/div/div/p[2]/a</value>
+      <webElementGuid>2af4d09f-447f-47ab-a4d9-94d0c3a73ae6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Selengkapnya')])[4]</value>
+      <webElementGuid>8faa4d7a-c352-49f7-8622-603830433232</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Partisipasi MLCI di Multifinance Day APPI, Turut Andil dalam Bulan Inklusi Keuangan 2022'])[1]/following::a[1]</value>
+      <webElementGuid>d1c82914-b654-4177-957f-435377d21a9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Minggu, 16 Oktober 2022'])[1]/following::a[1]</value>
+      <webElementGuid>7162be19-b9ee-433c-a9f5-960fc88da944</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kamis, 31 Maret 2022'])[1]/preceding::a[1]</value>
+      <webElementGuid>7a3d4130-6d8a-46e5-affe-f5d064114b1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selengkapnya'])[5]/preceding::a[1]</value>
+      <webElementGuid>bc1bff8b-b9bf-4c32-8eb6-59ae57d61821</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.mitsuilease.co.id/companys-activity-news-and-program/2')]</value>
+      <webElementGuid>f0ec264d-d08d-4d9f-9277-ff7c1cae9397</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/p[2]/a</value>
+      <webElementGuid>72e622f2-855a-4e0c-8286-6cdd210c3b63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.mitsuilease.co.id/companys-activity-news-and-program/2' and (text() = '
+                                                                                                                            Selengkapnya
+                                                                                                                    ' or . = '
+                                                                                                                            Selengkapnya
+                                                                                                                    ')]</value>
+      <webElementGuid>853ddcd8-095c-4b7f-89a8-2236e27df485</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

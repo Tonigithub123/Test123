@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Website MLCI_13_Artikel 5</name>
+   <tag></tag>
+   <elementGuidId>2bc64087-a4cb-4e28-b002-8c230978be35</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tab1']/div[2]/div[2]/div/div/p[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5340d933-75bb-409a-98f2-a9d0f769002f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>d888bd7f-d918-404e-8875-3dc1698f4dd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.mitsuilease.co.id/companys-activity-corporate-social-responsibility/2</value>
+      <webElementGuid>5471ccd6-8950-423a-b5e3-bb079df614c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6733ff51-b25d-4142-bf9f-56559d8a2138</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                                                                                            Selengkapnya
+                                                                                                                    </value>
+      <webElementGuid>ea52825a-ef56-4a87-9c36-d1549e6eb9f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab1&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-4&quot;]/div[@class=&quot;thumbnail&quot;]/div[@class=&quot;caption&quot;]/p[2]/a[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>5ebb9ed5-f81a-4a65-b555-612b5e468608</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab1']/div[2]/div[2]/div/div/p[2]/a</value>
+      <webElementGuid>e9f33500-b426-4874-b026-d663264d852f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Selengkapnya')])[5]</value>
+      <webElementGuid>631af3fb-2614-4876-8d4e-69ab534dc11b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sabtu, 25 Juni 2022'])[1]/following::a[1]</value>
+      <webElementGuid>6935aedc-5421-4c4d-a010-abd78b1cfa9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selengkapnya'])[4]/following::a[1]</value>
+      <webElementGuid>2e9f3c6f-d4f3-4425-b25d-acb6a9b973f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rabu, 8 Desember 2021'])[1]/preceding::a[1]</value>
+      <webElementGuid>f8eaf89e-73a4-4198-a1d2-7b5e3e9be922</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MLCI Berbagi 2021: Demi Kesehatan, Pendidikan, dan Hidup yang Lebih Sejahtera'])[1]/preceding::a[1]</value>
+      <webElementGuid>f5434f62-a53d-4990-b49c-8c49a068ed19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.mitsuilease.co.id/companys-activity-corporate-social-responsibility/2')]</value>
+      <webElementGuid>e2dcc969-f555-4282-a45f-050e81a1c90c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/p[2]/a</value>
+      <webElementGuid>7d7e3eda-952c-424a-9b53-9156f60acd7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.mitsuilease.co.id/companys-activity-corporate-social-responsibility/2' and (text() = '
+                                                                                                                            Selengkapnya
+                                                                                                                    ' or . = '
+                                                                                                                            Selengkapnya
+                                                                                                                    ')]</value>
+      <webElementGuid>6b2ef5b5-09e3-46d3-a1eb-fb1e93dcedba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Website MLCI_10_Artikel 2</name>
+   <tag></tag>
+   <elementGuidId>03d43788-8ec3-4119-b50f-bafdf25658f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tab1']/div/div[2]/div/div/p[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ef132191-b62b-43c9-9fa8-5a42d4a05ce3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>e764b935-1356-4433-9196-031a06246a60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.mitsuilease.co.id/companys-activity-corporate-social-responsibility/5</value>
+      <webElementGuid>3f55854f-d299-41db-8ab4-b6d2ea959810</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>13714052-ee04-424b-aaf5-e46823a65c77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                                                                                            Selengkapnya
+                                                                                                                    </value>
+      <webElementGuid>91e6e6ac-5350-415a-96e3-4adc08b81232</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab1&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-4&quot;]/div[@class=&quot;thumbnail&quot;]/div[@class=&quot;caption&quot;]/p[2]/a[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>d8010eae-f858-499e-bb51-93d774bb7197</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab1']/div/div[2]/div/div/p[2]/a</value>
+      <webElementGuid>e0ccd50f-8718-4d09-b953-7699a8f03331</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Selengkapnya')])[2]</value>
+      <webElementGuid>3681af20-30ab-40cd-9812-84b4043ecc27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Webinar Literasi Keuangan 2023 Semester I: Mengenal Perusahaan Pembiayaan Lebih Dekat'])[1]/following::a[1]</value>
+      <webElementGuid>6652f424-9ffe-4cc7-9cf7-ea728ea98cb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sabtu, 17 Juni 2023'])[1]/following::a[1]</value>
+      <webElementGuid>95417936-65c1-44cc-b0ca-dfe6d755300c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rabu, 7 Desember 2022'])[1]/preceding::a[1]</value>
+      <webElementGuid>f87a614e-cf19-471b-81f7-14a332c94a8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MLCI Berbagi 2022: Memberi Dukungan untuk Misi Mulia'])[1]/preceding::a[1]</value>
+      <webElementGuid>6510c807-a719-492b-a021-aa3839798bd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.mitsuilease.co.id/companys-activity-corporate-social-responsibility/5')]</value>
+      <webElementGuid>8a340355-7942-45bb-8349-698ac7a3965d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/p[2]/a</value>
+      <webElementGuid>c8f27bc3-c254-4240-a410-282d8fed6fcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.mitsuilease.co.id/companys-activity-corporate-social-responsibility/5' and (text() = '
+                                                                                                                            Selengkapnya
+                                                                                                                    ' or . = '
+                                                                                                                            Selengkapnya
+                                                                                                                    ')]</value>
+      <webElementGuid>ba77fb77-f033-43e5-8489-5247a9f09988</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

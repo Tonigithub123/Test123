@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Website MLCI_16_Artikel 2</name>
+   <tag></tag>
+   <elementGuidId>388949d2-c6e5-4b32-b4cb-896222f6afe1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tab1']/div/div[2]/div/div/p[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>65d9fd69-7ffc-412f-a6a5-c2b92d956f35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>f1bf3503-ca97-445b-b29d-f1effe8a19d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.mitsuilease.co.id/companys-activity-news-and-program/5</value>
+      <webElementGuid>f76fe673-d167-4afa-a301-b7d0d6045204</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>95311736-339b-4743-a0f3-40cc241dd971</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                                                                                            Selengkapnya
+                                                                                                                    </value>
+      <webElementGuid>d3105609-20fb-4e5d-8bd8-bced76195a5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab1&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-4&quot;]/div[@class=&quot;thumbnail&quot;]/div[@class=&quot;caption&quot;]/p[2]/a[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>ce07e5cd-d841-4114-b7cc-9e43136c79a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab1']/div/div[2]/div/div/p[2]/a</value>
+      <webElementGuid>2bdbcc2e-30ca-4041-9c7b-f9b8fd1959a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Selengkapnya')])[2]</value>
+      <webElementGuid>bc68aa29-0f83-4cd0-ac35-305d13c507b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mitsui Leasing Terapkan ISO 27001:2013-Prioritaskan Keamanan Informasi dan Kepercayaan Publik'])[1]/following::a[1]</value>
+      <webElementGuid>7394f4f7-9222-443f-8526-093550b92a64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selasa, 13 Juni 2023'])[1]/following::a[1]</value>
+      <webElementGuid>b77a2241-1d9a-469f-993f-11f8b792a063</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Jum', &quot;'&quot;, 'at, 24 Februari 2023')])[1]/preceding::a[1]</value>
+      <webElementGuid>9576ded4-1c8e-4c4e-9b4b-a6ea2c24ab0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mitsui Leasing Capital Indonesia Rayakan Tiga Dekade Penuh Kejayaan'])[1]/preceding::a[1]</value>
+      <webElementGuid>269ce94a-f5ca-4978-9ecc-6d7e58ebd110</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.mitsuilease.co.id/companys-activity-news-and-program/5')]</value>
+      <webElementGuid>7a62c0bf-86c6-4bc8-b92d-8aea23ec2b86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/p[2]/a</value>
+      <webElementGuid>73b37c50-cb4d-4e41-8c76-fc44b5d00c18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.mitsuilease.co.id/companys-activity-news-and-program/5' and (text() = '
+                                                                                                                            Selengkapnya
+                                                                                                                    ' or . = '
+                                                                                                                            Selengkapnya
+                                                                                                                    ')]</value>
+      <webElementGuid>8ab5db0d-3825-4042-a9ea-c0c9554ac243</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
