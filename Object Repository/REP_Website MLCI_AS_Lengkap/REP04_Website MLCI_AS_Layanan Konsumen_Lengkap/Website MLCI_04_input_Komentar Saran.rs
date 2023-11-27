@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_KomentarSaran_name</name>
+   <name>Website MLCI_04_input_Komentar Saran</name>
    <tag></tag>
-   <elementGuidId>dcb1ffef-d320-4c32-9886-8bfacfbdbe54</elementGuidId>
+   <elementGuidId>5e5929f6-dcd1-4c34-a456-b5e33deb94a0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='comment_name']</value>
+         <key>CSS</key>
+         <value>#comment_email</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#comment_name</value>
+         <key>XPATH</key>
+         <value>//input[@id='comment_email']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>282f9f9d-7e7d-46c0-985b-49857e8f1220</webElementGuid>
+      <webElementGuid>24bec3d4-bbd0-41c9-9089-c181f0da37d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>ee1f52f3-9027-4a4c-8d57-351260dd2ca3</webElementGuid>
+      <webElementGuid>000d00c5-5cf1-4924-ab9b-5b7e317003d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,70 +38,70 @@
       <name>class</name>
       <type>Main</type>
       <value>valid</value>
-      <webElementGuid>b9cd5605-9d90-491d-bfee-915181005cab</webElementGuid>
+      <webElementGuid>d1af08bd-9b5f-4320-96cf-c80982327912</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>name</value>
-      <webElementGuid>76f36470-5977-4d18-961e-99021bf4fa73</webElementGuid>
+      <value>email</value>
+      <webElementGuid>207cd4a1-15fa-4467-96c7-e7f89d737997</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>comment_name</value>
-      <webElementGuid>9eced122-8ef2-4160-b0d7-a64cbacfadb5</webElementGuid>
+      <value>comment_email</value>
+      <webElementGuid>738a1976-ef96-4d1e-bbc3-c154e2b5132a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Nama*</value>
-      <webElementGuid>87af0e2c-4ae3-4284-8a23-7cab9500bc02</webElementGuid>
+      <value>Email*</value>
+      <webElementGuid>33417f78-d5c1-4271-9672-1a88db92746f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;comment_name&quot;)</value>
-      <webElementGuid>2934cdd8-baac-4bf8-9b22-6d6d62c7eeef</webElementGuid>
+      <value>id(&quot;comment_email&quot;)</value>
+      <webElementGuid>47ff700e-5223-4bff-99a1-1dd09358a5b0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='comment_name']</value>
-      <webElementGuid>4a008e38-9ece-48ab-b4a1-a608f4748c56</webElementGuid>
+      <value>//input[@id='comment_email']</value>
+      <webElementGuid>9f97f0aa-f47b-4554-9dd9-3ea750a53d18</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='bootstrapSelectForm']/div/div/p/input</value>
-      <webElementGuid>4af5795d-e20b-4723-b09d-80a733fbaeba</webElementGuid>
+      <value>//form[@id='bootstrapSelectForm']/div/div[2]/p/input</value>
+      <webElementGuid>421ac773-c752-47b8-84c4-5fe5423389cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/p/input</value>
-      <webElementGuid>aaf714ac-8121-456d-9a34-3891b47962d1</webElementGuid>
+      <value>//div[2]/p/input</value>
+      <webElementGuid>88fb9389-3e44-440a-8736-006b459c9ed7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @name = 'name' and @id = 'comment_name' and @placeholder = 'Nama*']</value>
-      <webElementGuid>098a98e9-47d3-4f8b-80a2-0de31768dbeb</webElementGuid>
+      <value>//input[@type = 'text' and @name = 'email' and @id = 'comment_email' and @placeholder = 'Email*']</value>
+      <webElementGuid>f19a515b-1ece-4af6-b6e5-8b15f0b26dd4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Website MLCI_30_Pilih Jenis Mobil</name>
+   <tag></tag>
+   <elementGuidId>5b73e863-8db9-4f96-b930-a0f7ebe8eea1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#jenismobil</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='jenismobil']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>71c4704b-1808-437e-86ca-c66b28198e34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>jenismobil</value>
+      <webElementGuid>278a001c-95e4-48e7-97d4-32b9172a47d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>jenismobil</value>
+      <webElementGuid>1744505f-6f57-4436-863b-7ff08cf6d6f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>valid form-control</value>
+      <webElementGuid>58734da3-2554-4f79-9600-3e61b42d9009</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                    Pilih Jenis Mobil*
+                                                    Baru
+                                                    Bekas
+                                                </value>
+      <webElementGuid>35ea3071-6368-490c-963a-c7cd8887188f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jenismobil&quot;)</value>
+      <webElementGuid>cfa96ad2-7b74-41b8-8e9c-512033e9f527</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='jenismobil']</value>
+      <webElementGuid>29c8ad97-6405-4745-982f-d183c3737e5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contact-form']/form/div[10]/div[2]/p/select</value>
+      <webElementGuid>f05d17f9-8863-4838-8177-0061f825e8cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Mobil'])[1]/following::select[1]</value>
+      <webElementGuid>15ae1769-9547-4dd4-8d38-ceb3db48da1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pekerjaan'])[1]/following::select[1]</value>
+      <webElementGuid>60562564-4584-4ec3-a033-b80ce78a5618</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Merk Mobil'])[1]/preceding::select[1]</value>
+      <webElementGuid>d1192567-67f2-4a32-a1d3-cacab09b2192</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Model Mobil'])[1]/preceding::select[2]</value>
+      <webElementGuid>dae0f626-4584-478c-9f85-879992d0c079</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div[2]/p/select</value>
+      <webElementGuid>686c78b3-7082-40ea-840a-7c0a5c2194dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'jenismobil' and @id = 'jenismobil' and (text() = '
+                                                    Pilih Jenis Mobil*
+                                                    Baru
+                                                    Bekas
+                                                ' or . = '
+                                                    Pilih Jenis Mobil*
+                                                    Baru
+                                                    Bekas
+                                                ')]</value>
+      <webElementGuid>a1e1b7a7-a7e6-4403-b92a-c951276bcd35</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

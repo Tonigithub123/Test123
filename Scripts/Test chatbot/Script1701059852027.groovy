@@ -21,35 +21,18 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.mitsuilease.co.id/')
 
-WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP05_Website MLCI_AS_Karir_Lengkap/Website MLCI_01_KARIR'))
+WebUI.click(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/div_Connect_dolphin-chat-icon'))
 
-WebUI.delay(3)
+WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/input_Do you have questions Come chat with _33a405'), 
+    'adasfas')
 
-WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/5.Test Karir/1.Karir.png')
+WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/input_land Islands_dolphin-telephone'), 
+    '+6281232445')
 
-WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP05_Website MLCI_AS_Karir_Lengkap/Website MLCI_02_span Karir'))
+WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/input_land Islands_dolphin-email'), 
+    'sgsdgg@gmail.com')
 
-WebUI.delay(3)
-
-WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/5.Test Karir/2.CCM.png')
-
-WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP05_Website MLCI_AS_Karir_Lengkap/Website MLCI_02_span Karir'))
-
-WebUI.delay(3)
-
-WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/5.Test Karir/3.CPO.png')
-
-WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP05_Website MLCI_AS_Karir_Lengkap/Website MLCI_02_span Karir'))
-
-WebUI.delay(3)
-
-WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/5.Test Karir/4.CRA.png')
-
-WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP05_Website MLCI_AS_Karir_Lengkap/Website MLCI_02_span Karir'))
-
-WebUI.delay(3)
-
-WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/5.Test Karir/5.CMO.png')
+WebUI.click(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/button_Please tell us about yourself_dolphi_fa9299'))
 
 WebUI.closeBrowser()
 

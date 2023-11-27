@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>select_---                                 _4d5531</name>
+   <name>Website MLCI_08_Pilih cabang</name>
    <tag></tag>
    <elementGuidId>735ed62d-7643-4a08-acc1-377a83ad92ee</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//select[@id='cabang_id']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#cabang_id</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='cabang_id']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

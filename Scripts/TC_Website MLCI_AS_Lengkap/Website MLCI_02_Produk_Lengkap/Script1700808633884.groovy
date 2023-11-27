@@ -25,7 +25,7 @@ WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS/REP02_Website 
 
 WebUI.delay(3)
 
-WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/TEST/2.Test Produk/1.Produk.png')
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/2.Test Produk/1.Produk.png')
 
 WebUI.closeBrowser()
 

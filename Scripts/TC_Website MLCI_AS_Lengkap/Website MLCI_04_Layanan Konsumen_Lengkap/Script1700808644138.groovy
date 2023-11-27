@@ -21,32 +21,64 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.mitsuilease.co.id/')
 
-WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP04_Website MLCI_AS_Layanan Konsumen_Lengkap/a_LAYANAN KONSUMEN'))
+WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP04_Website MLCI_AS_Layanan Konsumen_Lengkap/Website MLCI_01_LAYANAN KONSUMEN'))
 
-WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP04_Website MLCI_AS_Layanan Konsumen_Lengkap/a_KomentarSaran'))
+WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP04_Website MLCI_AS_Layanan Konsumen_Lengkap/Website MLCI_02_KomentarSaran'))
 
-WebUI.setText(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP04_Website MLCI_AS_Layanan Konsumen_Lengkap/input_KomentarSaran_name'), 
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/4.Test Layanan Konsumen/1.Komentar Saran.png')
+
+WebUI.setText(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP04_Website MLCI_AS_Layanan Konsumen_Lengkap/Website MLCI_03_input Komentar Saran name'), 
     'ASASSAS')
 
-WebUI.setText(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP04_Website MLCI_AS_Layanan Konsumen_Lengkap/input_KomentarSaran_email'), 
+WebUI.setText(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP04_Website MLCI_AS_Layanan Konsumen_Lengkap/Website MLCI_04_input_Komentar Saran'), 
     'QWQWQWQW')
 
-WebUI.setText(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP04_Website MLCI_AS_Layanan Konsumen_Lengkap/textarea_KomentarSaran_message'), 
+WebUI.setText(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP04_Website MLCI_AS_Layanan Konsumen_Lengkap/Website MLCI_05_input Komentar Saran message'), 
     'sazxcqwe')
 
-WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP04_Website MLCI_AS_Layanan Konsumen_Lengkap/a_Hubungi Kami'))
+WebUI.delay(3)
 
-WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP04_Website MLCI_AS_Layanan Konsumen_Lengkap/a_Prosedur Pengaduan Konsumen'))
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/4.Test Layanan Konsumen/2.Komentar Saran yang sudah diinput.png')
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP04_Website MLCI_AS_Layanan Konsumen_Lengkap/select_---                                 _4d5531'), 
+WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP04_Website MLCI_AS_Layanan Konsumen_Lengkap/Website MLCI_06_Hubungi Kami'))
+
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/4.Test Layanan Konsumen/3.Hubungi Kami.png')
+
+WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP04_Website MLCI_AS_Layanan Konsumen_Lengkap/Website MLCI_07_Prosedur Pengaduan Konsumen'))
+
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/4.Test Layanan Konsumen/4.Prosedur Pengaduan Konsumen.png')
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP04_Website MLCI_AS_Layanan Konsumen_Lengkap/Website MLCI_08_Pilih cabang'), 
     '13', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP04_Website MLCI_AS_Layanan Konsumen_Lengkap/select_---                                 _4d5531'), 
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/4.Test Layanan Konsumen/5.Pilih Cabang 1.png')
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP04_Website MLCI_AS_Layanan Konsumen_Lengkap/Website MLCI_08_Pilih cabang'), 
     '9', true)
 
-WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP04_Website MLCI_AS_Layanan Konsumen_Lengkap/a_Lembaga Alternatif Penyelesaian Sengketa (LAPS)'))
+WebUI.delay(3)
 
-WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP04_Website MLCI_AS_Layanan Konsumen_Lengkap/a_Ringkasan Informasi Produk dan Layanan Ve_100725'))
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/4.Test Layanan Konsumen/6.Pilih Cabang 2.png')
+
+WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP04_Website MLCI_AS_Layanan Konsumen_Lengkap/Website MLCI_09_Lembaga Alternatif Penyelesaian Sengketa (LAPS)'))
+
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/4.Test Layanan Konsumen/7.Lembaga Alternatif Penyelesaian sengketa(LAPS).png')
+
+WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP04_Website MLCI_AS_Layanan Konsumen_Lengkap/Website MLCI_10_Ringkasan Informasi Produk dan Layanan Ve_100725'))
+
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/4.Test Layanan Konsumen/8.Ringkasan Informasi Produk dan Layanan.png')
 
 WebUI.closeBrowser()
 

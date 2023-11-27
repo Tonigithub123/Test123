@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_KARIR</name>
+   <name>Website MLCI_31_Dokumen Persyaratan Pengambilan BPKB</name>
    <tag></tag>
-   <elementGuidId>cbc9a6b1-c21e-4ec0-9b12-87b7dbd2d61f</elementGuidId>
+   <elementGuidId>a2901916-5c9f-4edd-b45e-4597c3579c51</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//ul[@id='main-menu']/li[6]/a</value>
+         <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>li.sfHover > a</value>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/section/div/div/div/div/div/ul/li[7]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,110 +22,102 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>e39f713f-4abf-4c62-b055-43bf75ef4249</webElementGuid>
+      <webElementGuid>3f509e88-3fa0-447d-a1a7-dff8c0c674b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>https://www.mitsuilease.co.id/karir</value>
-      <webElementGuid>e6b81224-bead-4370-b55f-4eab78cf8588</webElementGuid>
+      <value>https://www.mitsuilease.co.id/prodbpkb</value>
+      <webElementGuid>2e894a21-39f0-4690-a8ce-848bc3276f12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>KARIR</value>
-      <webElementGuid>b3d75808-3dd6-4a9a-827f-d56efa785641</webElementGuid>
+      <value>Dokumen Persyaratan Pengambilan BPKB</value>
+      <webElementGuid>ddb5e230-c174-46f0-aaaf-20c93b29d0b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;main-nav&quot;)/ul[@id=&quot;main-menu&quot;]/li[@class=&quot;sfHover&quot;]/a[1]</value>
-      <webElementGuid>84b747b9-2d48-409b-becd-fa1e9d52a2bc</webElementGuid>
+      <value>id(&quot;main-content&quot;)/section[@class=&quot;kopa-area kopa-area-31&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 col-sm-2 col-xs-12&quot;]/div[@class=&quot;widget clearfix widget_nav_menu&quot;]/div[@class=&quot;menu-menu-container&quot;]/ul[@class=&quot;menu&quot;]/li[@class=&quot;menu-item menu-item-type-post_type menu-item-object-page&quot;]/a[1]</value>
+      <webElementGuid>9fd2e559-97a2-459a-b784-38bbd28decfe</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//ul[@id='main-menu']/li[6]/a</value>
-      <webElementGuid>ead797b5-7581-46cb-8b69-55ba7470e767</webElementGuid>
+      <value>//div[@id='main-content']/section/div/div/div/div/div/ul/li[7]/a</value>
+      <webElementGuid>1427eda1-b055-4a7c-9446-0d94cbd88743</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'KARIR')]</value>
-      <webElementGuid>45ca93aa-a8c0-4208-a49a-c2d3e06d84c3</webElementGuid>
+      <value>(//a[contains(text(),'Dokumen Persyaratan Pengambilan BPKB')])[3]</value>
+      <webElementGuid>0cdeb3c5-8ba3-4d72-b794-fd68d72d7b2d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ringkasan Informasi Produk dan Layanan Versi Umum'])[1]/following::a[1]</value>
-      <webElementGuid>46266dde-a3a2-4e98-9f5f-77c81d4ac68e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aplikasi Kredit'])[4]/following::a[1]</value>
+      <webElementGuid>e1ff9430-8e82-407d-9dc4-f4d142b561fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lembaga Alternatif Penyelesaian Sengketa (LAPS)'])[1]/following::a[2]</value>
-      <webElementGuid>13c0119a-5254-4be1-8d30-7f45cf8dfb88</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Rekanan Asuransi'])[3]/following::a[2]</value>
+      <webElementGuid>05404bbe-75ff-481f-a0d8-aa73c968a18e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ'])[1]/preceding::a[1]</value>
-      <webElementGuid>6958f35f-876b-41d2-860c-6e4a39f7bde6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Formulir Permohonan Pengecekan Data'])[3]/preceding::a[1]</value>
+      <webElementGuid>8cffa9c6-41e5-4cdf-9e8a-23b82402e389</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='MAIN MENU'])[1]/preceding::a[2]</value>
-      <webElementGuid>e4b2fa87-0b67-48db-881f-beae842790df</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='KARIR']/parent::*</value>
-      <webElementGuid>79e3b6a2-e3a3-405e-9dba-b648fe947a5c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aplikasi Kredit'])[5]/preceding::a[2]</value>
+      <webElementGuid>cf3470ac-7735-4087-bf52-39ee73d00273</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'https://www.mitsuilease.co.id/karir')]</value>
-      <webElementGuid>61577770-9450-4542-a665-37283f3df4e4</webElementGuid>
+      <value>(//a[contains(@href, 'https://www.mitsuilease.co.id/prodbpkb')])[3]</value>
+      <webElementGuid>28ce6422-e644-41c9-bd49-81af79dc7a76</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//nav/ul/li[6]/a</value>
-      <webElementGuid>9bfd5728-3850-4598-a699-b8283e5322c0</webElementGuid>
+      <value>//div/ul/li[7]/a</value>
+      <webElementGuid>31cc291b-30be-42bc-9fae-9030ba71c52f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'https://www.mitsuilease.co.id/karir' and (text() = 'KARIR' or . = 'KARIR')]</value>
-      <webElementGuid>b663db2c-0218-4481-b751-563a535627ac</webElementGuid>
+      <value>//a[@href = 'https://www.mitsuilease.co.id/prodbpkb' and (text() = 'Dokumen Persyaratan Pengambilan BPKB' or . = 'Dokumen Persyaratan Pengambilan BPKB')]</value>
+      <webElementGuid>3b64f9cb-af61-4f08-8544-2f79d1512006</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

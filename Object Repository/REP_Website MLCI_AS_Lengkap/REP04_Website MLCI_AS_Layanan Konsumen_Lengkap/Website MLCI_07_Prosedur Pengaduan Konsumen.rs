@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_KomentarSaran</name>
+   <name>Website MLCI_07_Prosedur Pengaduan Konsumen</name>
    <tag></tag>
-   <elementGuidId>7f34f201-dbd6-4c69-937c-45f785a41746</elementGuidId>
+   <elementGuidId>4d9353a2-5651-4790-9dc0-fef8131c2840</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//ul[@id='main-menu']/li[5]/ul/li/a</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>li.sfHover > ul > li.sfHover > a</value>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/section/div/div/div/div/div/ul/li[3]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,110 +21,102 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>9e819bdd-4fd6-4f05-8fac-d7bad00352a0</webElementGuid>
+      <webElementGuid>b6967777-6544-4689-a440-a2f5e1711920</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>https://www.mitsuilease.co.id/komensaran</value>
-      <webElementGuid>54d0409e-0c44-4f93-8ef6-93d4231b2674</webElementGuid>
+      <value>https://www.mitsuilease.co.id/pengaduan_konsumen</value>
+      <webElementGuid>4a7b6731-3f61-4817-8c77-9928fe089836</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Komentar/Saran</value>
-      <webElementGuid>2f532c09-9b06-4e35-bdb8-59ad9c1361a3</webElementGuid>
+      <value>Prosedur Pengaduan Konsumen</value>
+      <webElementGuid>37fadce8-065e-44f3-bf48-d152d8aac773</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;main-nav&quot;)/ul[@id=&quot;main-menu&quot;]/li[@class=&quot;sfHover&quot;]/ul[1]/li[@class=&quot;sfHover&quot;]/a[1]</value>
-      <webElementGuid>c61c994f-6c66-4fb7-a3d2-9e48f50ceab5</webElementGuid>
+      <value>id(&quot;main-content&quot;)/section[@class=&quot;kopa-area kopa-area-31&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 col-sm-2 col-xs-12&quot;]/div[@class=&quot;widget clearfix widget_nav_menu&quot;]/div[@class=&quot;menu-menu-container&quot;]/ul[@class=&quot;menu&quot;]/li[@class=&quot;menu-item menu-item-type-post_type menu-item-object-page&quot;]/a[1]</value>
+      <webElementGuid>9e6004cb-4d4b-4c11-864b-e18135ee18cf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//ul[@id='main-menu']/li[5]/ul/li/a</value>
-      <webElementGuid>cae8b7d7-e46c-4250-80ea-46f5d1cc6c54</webElementGuid>
+      <value>//div[@id='main-content']/section/div/div/div/div/div/ul/li[3]/a</value>
+      <webElementGuid>dbb2aa38-e17b-46fc-8b21-66efd4495eb7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Komentar/Saran')]</value>
-      <webElementGuid>7e948ef7-4d61-4000-9b71-61c7c066608f</webElementGuid>
+      <value>(//a[contains(text(),'Prosedur Pengaduan Konsumen')])[3]</value>
+      <webElementGuid>547e6127-1c6a-4f2c-9169-960dfe5a5a06</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Formulir Permohonan Pengecekan Data'])[1]/following::a[2]</value>
-      <webElementGuid>4a870fc1-5bc7-48a7-b418-fe0422c600e4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hubungi Kami'])[2]/following::a[1]</value>
+      <webElementGuid>70e261e4-258a-4dee-9a01-bb84a372c93e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dokumen Persyaratan Pengambilan BPKB'])[1]/following::a[3]</value>
-      <webElementGuid>a0ea0ba6-de1f-48e2-9ebf-6b6f187bb27c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Komentar/Saran'])[3]/following::a[2]</value>
+      <webElementGuid>6e936daf-4468-4bdf-8ec4-808e94ced1a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/preceding::a[1]</value>
-      <webElementGuid>8259ba0c-8b4e-41b6-b724-e7d55066e110</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lembaga Alternatif Penyelesaian Sengketa (LAPS)'])[3]/preceding::a[1]</value>
+      <webElementGuid>49d835dd-0f68-4990-b802-1da6d8e8e790</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prosedur Pengaduan Konsumen'])[1]/preceding::a[2]</value>
-      <webElementGuid>ff2abd29-7706-47de-b5b7-a39b28911442</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Komentar/Saran']/parent::*</value>
-      <webElementGuid>081172ad-33bd-4a84-a7e0-63a25b7b290e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ringkasan Informasi Produk dan Layanan Versi Umum'])[3]/preceding::a[2]</value>
+      <webElementGuid>604b9810-b172-4f14-b00d-a37a4e698cb9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'https://www.mitsuilease.co.id/komensaran')]</value>
-      <webElementGuid>337b0670-6c82-44c0-a283-c80f96f031d2</webElementGuid>
+      <value>(//a[contains(@href, 'https://www.mitsuilease.co.id/pengaduan_konsumen')])[3]</value>
+      <webElementGuid>31bf4187-f873-4a36-9e0b-53fc78f347a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[5]/ul/li/a</value>
-      <webElementGuid>9476e070-e64f-4505-ae39-64ebdc77e76f</webElementGuid>
+      <value>//div/ul/li[3]/a</value>
+      <webElementGuid>a95a9562-4209-4ffe-af45-97897c588e54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'https://www.mitsuilease.co.id/komensaran' and (text() = 'Komentar/Saran' or . = 'Komentar/Saran')]</value>
-      <webElementGuid>5727e012-cd8e-4456-9dc1-6fb6da27e957</webElementGuid>
+      <value>//a[@href = 'https://www.mitsuilease.co.id/pengaduan_konsumen' and (text() = 'Prosedur Pengaduan Konsumen' or . = 'Prosedur Pengaduan Konsumen')]</value>
+      <webElementGuid>94bfc4f9-21a6-42b1-ad08-8bd34e1cc7c4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

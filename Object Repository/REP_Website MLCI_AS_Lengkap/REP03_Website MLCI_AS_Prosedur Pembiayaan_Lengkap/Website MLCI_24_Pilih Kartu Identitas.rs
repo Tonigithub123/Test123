@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Website MLCI_24_Pilih Kartu Identitas</name>
+   <tag></tag>
+   <elementGuidId>dd4bcb3d-90b9-411d-8379-f8767b182707</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#kartu_pribadi</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='kartu_pribadi']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>b7ee3592-e634-445a-ae28-70db46a71755</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>kartu_pribadi</value>
+      <webElementGuid>0a6f21a8-5c78-4b44-9c67-5786a4c326fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>kartu_pribadi</value>
+      <webElementGuid>b64c6817-11cb-460a-9378-e70b3c27bdac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>valid form-control</value>
+      <webElementGuid>937e70a9-372b-4206-b4d2-b786f4d62a5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                    Pilih Kartu Identitas
+                                                    KTP
+                                                    SIM
+                                                    PASPOR
+                                                </value>
+      <webElementGuid>6eb0390b-a953-41a1-b132-52105c2a34f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kartu_pribadi&quot;)</value>
+      <webElementGuid>be1817ae-8548-4d2e-834a-94a3a6d481ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='kartu_pribadi']</value>
+      <webElementGuid>996586c5-818e-41f2-a9a6-f9219958fa45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contact-form']/form/div[3]/div[2]/p/select</value>
+      <webElementGuid>3df3c3af-25bb-4b12-84f0-5969b06ee316</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Kartu Identitas'])[1]/following::select[1]</value>
+      <webElementGuid>a0278843-0cdb-4d4e-bb3f-91292fe07ea4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Kelamin'])[1]/following::select[1]</value>
+      <webElementGuid>0455e83e-d587-46d2-8df6-fbd1b1205796</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor Kartu Identitas'])[1]/preceding::select[1]</value>
+      <webElementGuid>2895547b-e37e-4538-8286-a633d4d5f2d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/preceding::select[1]</value>
+      <webElementGuid>d1112fec-4be0-4b71-85c4-e41ae406f246</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>b7207534-1178-472e-a580-577706a4b708</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'kartu_pribadi' and @id = 'kartu_pribadi' and (text() = '
+                                                    Pilih Kartu Identitas
+                                                    KTP
+                                                    SIM
+                                                    PASPOR
+                                                ' or . = '
+                                                    Pilih Kartu Identitas
+                                                    KTP
+                                                    SIM
+                                                    PASPOR
+                                                ')]</value>
+      <webElementGuid>966bb21c-d507-4925-b64a-2b1f44e6a0fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

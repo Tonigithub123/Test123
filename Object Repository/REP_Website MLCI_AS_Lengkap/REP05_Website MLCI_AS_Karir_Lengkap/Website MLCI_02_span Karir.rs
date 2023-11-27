@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Karir_btn-title</name>
+   <name>Website MLCI_02_span Karir</name>
    <tag></tag>
    <elementGuidId>22c2ae07-ee07-4bd4-8f50-f7db01ed68fa</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='accordion']/div/div/h4/a/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>span.btn-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='accordion']/div/div/h4/a/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

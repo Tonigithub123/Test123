@@ -21,25 +21,65 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.mitsuilease.co.id/')
 
-WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP06_Website MLCI_AS_FAQ_Lengkap/a_FAQ'))
+WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP06_Website MLCI_AS_FAQ_Lengkap/Website MLCI_01_FAQ'))
 
-WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP06_Website MLCI_AS_FAQ_Lengkap/span_FAQ_btn-title'))
+WebUI.delay(3)
 
-WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP06_Website MLCI_AS_FAQ_Lengkap/span_FAQ_btn-title'))
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/6.Test FAQ/1.FAQ 1.png')
 
-WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP06_Website MLCI_AS_FAQ_Lengkap/span_FAQ_btn-title'))
+WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP06_Website MLCI_AS_FAQ_Lengkap/Website MLCI_02_span FAQ'))
 
-WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP06_Website MLCI_AS_FAQ_Lengkap/span_FAQ_btn-title'))
+WebUI.delay(3)
 
-WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP06_Website MLCI_AS_FAQ_Lengkap/span_FAQ_btn-title'))
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/6.Test FAQ/2.FAQ 2.png')
 
-WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP06_Website MLCI_AS_FAQ_Lengkap/span_FAQ_btn-title'))
+WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP06_Website MLCI_AS_FAQ_Lengkap/Website MLCI_02_span FAQ'))
 
-WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP06_Website MLCI_AS_FAQ_Lengkap/span_FAQ_btn-title'))
+WebUI.delay(3)
 
-WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP06_Website MLCI_AS_FAQ_Lengkap/span_FAQ_btn-title'))
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/6.Test FAQ/3.FAQ 3.png')
 
-WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP06_Website MLCI_AS_FAQ_Lengkap/span_FAQ_btn-title'))
+WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP06_Website MLCI_AS_FAQ_Lengkap/Website MLCI_02_span FAQ'))
+
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/6.Test FAQ/4.FAQ 4.png')
+
+WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP06_Website MLCI_AS_FAQ_Lengkap/Website MLCI_02_span FAQ'))
+
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/6.Test FAQ/5.FAQ 5.png')
+
+WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP06_Website MLCI_AS_FAQ_Lengkap/Website MLCI_02_span FAQ'))
+
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/6.Test FAQ/6.FAQ 6.png')
+
+WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP06_Website MLCI_AS_FAQ_Lengkap/Website MLCI_02_span FAQ'))
+
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/6.Test FAQ/6.FAQ 6.png')
+
+WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP06_Website MLCI_AS_FAQ_Lengkap/Website MLCI_02_span FAQ'))
+
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/6.Test FAQ/7.FAQ 7.png')
+
+WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP06_Website MLCI_AS_FAQ_Lengkap/Website MLCI_02_span FAQ'))
+
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/6.Test FAQ/8.FAQ 8.png')
+
+WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP06_Website MLCI_AS_FAQ_Lengkap/Website MLCI_02_span FAQ'))
+
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/6.Test FAQ/9.FAQ 9.png')
 
 WebUI.closeBrowser()
 

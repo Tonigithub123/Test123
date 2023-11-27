@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_FAQ_btn-title</name>
+   <name>Website MLCI_02_span FAQ</name>
    <tag></tag>
    <elementGuidId>7b88845b-3105-49b5-8013-38fa4770569f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='accordion']/div/div/h4/a/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>span.btn-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='accordion']/div/div/h4/a/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
