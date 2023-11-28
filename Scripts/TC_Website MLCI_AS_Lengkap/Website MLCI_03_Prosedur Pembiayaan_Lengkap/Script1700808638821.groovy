@@ -152,6 +152,15 @@ WebUI.setText(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP0
 WebUI.selectOptionByValue(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_30_Pilih Jenis Mobil'), 
     'Baru', true)
 
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/select_Pilih Merk Mobil                    _53c778'), 
+    'RENAULT', false)
+
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/select_Pilih Model MobilClioKangooMeganeScenic'), 
+    'Kangoo', false)
+
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/select_Pilih Tipe MobilMT'), 
+    'M/T', false)
+
 WebUI.delay(3)
 
 WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/3.Test Prosedur Pembiayaan/15.Aplikasi Kredit yang sudah diinput.png')
@@ -163,6 +172,28 @@ WebUI.delay(3)
 WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/3.Test Prosedur Pembiayaan/16.Dokumen Persyaratan Pengambilan BPKB.png')
 
 WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_32_Formulir Permohonan Pengecekan Data'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/select_Individu                            _09a40e'), 
+    '2', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/select_Balikpapan                          _adfa16'), 
+    '15', true)
+
+WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/input_Nama Pemohon_nama_pemohon_npwp'), 
+    'sdfdsfsd')
+
+WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/input_Nomor NPWP_no_npwp'), '2134324232423423423423234')
+
+WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/textarea_Alamat sesuai NPWP_alamat_npwp'), 
+    'sddsfdfdvdev')
+
+WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/input_Nama PIC dari Pemohon_nama_pic'), 
+    'dfe')
+
+WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/input_Nomor Telepon_phone_npwp'), 
+    '12412')
+
+WebUI.click(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/input_copy_form_agree'))
 
 WebUI.delay(3)
 
