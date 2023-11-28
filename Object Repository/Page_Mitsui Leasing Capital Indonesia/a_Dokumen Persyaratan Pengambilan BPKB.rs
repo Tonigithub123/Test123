@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Dokumen Persyaratan Pengambilan BPKB</name>
+   <tag></tag>
+   <elementGuidId>ba2b8159-9237-4c75-8d10-f54946520108</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/section/div/div/div/div/div/ul/li[7]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5773ecd7-6058-4b40-a0a2-a76d5aec110d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.mitsuilease.co.id/prodbpkb</value>
+      <webElementGuid>a5cfa8b3-912c-4b78-8377-d95a40d25833</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dokumen Persyaratan Pengambilan BPKB</value>
+      <webElementGuid>1ad4d9d5-9b4a-4e30-a262-3bf7d2642b8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/section[@class=&quot;kopa-area kopa-area-31&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 col-sm-2 col-xs-12&quot;]/div[@class=&quot;widget clearfix widget_nav_menu&quot;]/div[@class=&quot;menu-menu-container&quot;]/ul[@class=&quot;menu&quot;]/li[@class=&quot;menu-item menu-item-type-post_type menu-item-object-page&quot;]/a[1]</value>
+      <webElementGuid>6a16384d-72d8-49f5-afe4-a74ab32eb2a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/section/div/div/div/div/div/ul/li[7]/a</value>
+      <webElementGuid>f3b60594-55da-4483-a37f-1c0a4fda815d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Dokumen Persyaratan Pengambilan BPKB')])[3]</value>
+      <webElementGuid>247278ca-5869-457d-ab26-7bd33a574d7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aplikasi Kredit'])[4]/following::a[1]</value>
+      <webElementGuid>c36bf61b-2572-4dc2-a275-2443ad190c75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Rekanan Asuransi'])[3]/following::a[2]</value>
+      <webElementGuid>235ecb19-86d6-49bc-9996-3db7eeb636a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Formulir Permohonan Pengecekan Data'])[3]/preceding::a[1]</value>
+      <webElementGuid>67f7cb27-37bd-49c1-9373-80b3a35403ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aplikasi Kredit'])[5]/preceding::a[2]</value>
+      <webElementGuid>145ea02b-a073-4b53-9f1a-0af30965f84e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.mitsuilease.co.id/prodbpkb')])[3]</value>
+      <webElementGuid>b14e54bd-d068-4951-b64f-4d974c8fffb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[7]/a</value>
+      <webElementGuid>dffe8ee6-4923-4f6c-85e7-4ede8c7c3d12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.mitsuilease.co.id/prodbpkb' and (text() = 'Dokumen Persyaratan Pengambilan BPKB' or . = 'Dokumen Persyaratan Pengambilan BPKB')]</value>
+      <webElementGuid>6d8290e7-9d6d-460e-9041-8ac273a8b799</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

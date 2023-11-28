@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Individu                            _09a40e</name>
+   <tag></tag>
+   <elementGuidId>516aec71-8d54-422f-b5f5-69333a37d1a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='applicant_id']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#applicant_id</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>2ca4f982-3e95-4018-aaf2-985ba099f2ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>applicant_id</value>
+      <webElementGuid>dc22e3f9-9336-4d36-82be-dce7059771e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>applicant_id</value>
+      <webElementGuid>284688e0-37c4-45b2-8b6e-95bbf748595f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>valid form-control</value>
+      <webElementGuid>ea8fe3b1-89ee-4171-8d03-677a594167ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                    Individu
+                                                    Badan Hukum / Badan Usaha
+                                                </value>
+      <webElementGuid>eb2b2b7b-7807-4f77-9ffe-361faa16f7d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;applicant_id&quot;)</value>
+      <webElementGuid>235682c2-832b-4523-af97-63de67cabfce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='applicant_id']</value>
+      <webElementGuid>5e2fca4e-2686-44f1-9972-db52651657e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmCheckingForm']/div/div[2]/p/select</value>
+      <webElementGuid>a014f885-5193-43cf-8836-eb81a2c88d50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pemohon'])[1]/following::select[1]</value>
+      <webElementGuid>172c78b0-ad01-4ab2-9059-053b8fff93a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Formulir Permohonan Pengecekan Data'])[5]/following::select[1]</value>
+      <webElementGuid>53010117-af5f-46aa-8e2d-e8b8fe0e35ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cabang*'])[1]/preceding::select[1]</value>
+      <webElementGuid>00b5626d-55d4-445c-83dc-76a63e0799bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor Pemohon*'])[1]/preceding::select[2]</value>
+      <webElementGuid>1d7170bb-8f1d-4678-b937-490a2af3c16d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>f2ac1b74-af85-4165-b1f9-49569326f1be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'applicant_id' and @id = 'applicant_id' and (text() = '
+                                                    Individu
+                                                    Badan Hukum / Badan Usaha
+                                                ' or . = '
+                                                    Individu
+                                                    Badan Hukum / Badan Usaha
+                                                ')]</value>
+      <webElementGuid>fd18e2d0-e549-4aa5-aba4-86ad1792b730</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>telusuri</name>
+   <tag></tag>
+   <elementGuidId>62978684-2fa9-4708-8b3f-25e658c379e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;img_npwp_dok&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#img_npwp_dok</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

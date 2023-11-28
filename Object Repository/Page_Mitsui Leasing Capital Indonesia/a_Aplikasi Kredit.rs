@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Aplikasi Kredit</name>
+   <tag></tag>
+   <elementGuidId>d314f0ad-916c-45e9-8bc9-862f3721192f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='main-menu']/li[4]/ul/li[6]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.sfHover > ul > li.sfHover > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d5e287fa-6e5a-4ca2-a53e-ed878ad23b8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.mitsuilease.co.id/appkredit</value>
+      <webElementGuid>95c40beb-81c2-44f9-95a5-d1a20dde270d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aplikasi Kredit</value>
+      <webElementGuid>d61a529c-d584-4922-8c58-80bc770020fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-nav&quot;)/ul[@id=&quot;main-menu&quot;]/li[@class=&quot;sfHover&quot;]/ul[1]/li[@class=&quot;sfHover&quot;]/a[1]</value>
+      <webElementGuid>5e032b55-bce1-45b7-9fcd-992df6f89e52</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='main-menu']/li[4]/ul/li[6]/a</value>
+      <webElementGuid>98dc0c9c-a040-48ea-9847-f40a3ba6be9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Aplikasi Kredit')]</value>
+      <webElementGuid>dc7bb18c-560c-40bc-8c32-2c588f2a32ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Rekanan Asuransi'])[1]/following::a[1]</value>
+      <webElementGuid>751691df-2e62-439c-89dd-3f892f36a73c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simulasi Kredit'])[1]/following::a[2]</value>
+      <webElementGuid>e37badaf-9409-4359-91f8-043f881756be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dokumen Persyaratan Pengambilan BPKB'])[1]/preceding::a[1]</value>
+      <webElementGuid>e9f4218e-da0a-4f6f-a1e2-9937232ec1b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Formulir Permohonan Pengecekan Data'])[1]/preceding::a[2]</value>
+      <webElementGuid>44d73a07-36b4-4db1-82a4-2cac7ac3770d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Aplikasi Kredit']/parent::*</value>
+      <webElementGuid>ec7f056e-263d-43c6-b82b-6997ac69d557</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.mitsuilease.co.id/appkredit')]</value>
+      <webElementGuid>b54e85f0-3c51-4ca3-881b-9f3e95d0fbf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li[6]/a</value>
+      <webElementGuid>8be2aac8-e5b5-4365-9f9c-4b6bf5725871</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.mitsuilease.co.id/appkredit' and (text() = 'Aplikasi Kredit' or . = 'Aplikasi Kredit')]</value>
+      <webElementGuid>55401ce9-c4ff-4465-a552-85ee52be9f43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
