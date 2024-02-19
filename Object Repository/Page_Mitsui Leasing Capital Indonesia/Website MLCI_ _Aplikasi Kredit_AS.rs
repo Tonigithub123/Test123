@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Aplikasi Kredit</name>
+   <name>Website MLCI_ _Aplikasi Kredit_AS</name>
    <tag></tag>
    <elementGuidId>d314f0ad-916c-45e9-8bc9-862f3721192f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//ul[@id='main-menu']/li[4]/ul/li[6]/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>li.sfHover > ul > li.sfHover > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='main-menu']/li[4]/ul/li[6]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

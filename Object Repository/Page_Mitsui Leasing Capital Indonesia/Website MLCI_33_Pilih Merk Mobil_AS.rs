@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>select_Pilih Merk Mobil                    _53c778</name>
+   <name>Website MLCI_33_Pilih Merk Mobil_AS</name>
    <tag></tag>
    <elementGuidId>e7ca5015-1a9a-477c-8930-56f2d821001f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//select[@id='merkmobil']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#merkmobil</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='merkmobil']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

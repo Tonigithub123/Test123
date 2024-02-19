@@ -23,7 +23,7 @@ WebUI.navigateToUrl('https://www.mitsuilease.co.id/')
 
 WebUI.click(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/a_PROSEDUR PEMBIAYAAN'))
 
-WebUI.click(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/a_Aplikasi Kredit'))
+WebUI.click(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/Website MLCI_ _Aplikasi Kredit_AS'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/input_Nama_nama'), 'asasa')
 
@@ -46,29 +46,29 @@ WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indo
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/select_Pilih Jenis Mobil                   _9450ef'), 
     'Baru', true)
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/select_Pilih Merk Mobil                    _53c778'), 
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/Website MLCI_33_Pilih Merk Mobil_AS'), 
     'RENAULT', false)
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/select_Pilih Model MobilClioKangooMeganeScenic'), 
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/Website MLCI_34_Pilih Model Mobil_AS'), 
     'Kangoo', false)
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/select_Pilih Tipe MobilMT'), 
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/Website MLCI_35_Pilih Tipe Mobil_AS'), 
     'M/T', false)
 
 WebUI.click(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/a_Dokumen Persyaratan Pengambilan BPKB'))
 
 WebUI.click(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/a_Formulir Permohonan Pengecekan Data'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/select_Individu                            _09a40e'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/Website MLCI_36_Pilih Individu-AS'), 
     '2', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/select_Balikpapan                          _adfa16'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/Website MLCI_37_Pilih Balikpapan_AS'), 
     '15', true)
 
-WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/input_Nama Pemohon_nama_pemohon_npwp'), 
+WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/Website MLCI_38_input Nama Pemohon Npwp_AS'), 
     'sdfdsfsd')
 
-WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/input_Nomor NPWP_no_npwp'), '2134324232423423423423234')
+WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/Website MLCI_39_input Nomor NPWP_AS'), '2134324232423423423423234')
 
 WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/textarea_Alamat sesuai NPWP_alamat_npwp'), 
     'sddsfdfdvdev')

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>select_Individu                            _09a40e</name>
+   <name>Website MLCI_36_Pilih Individu-AS</name>
    <tag></tag>
    <elementGuidId>516aec71-8d54-422f-b5f5-69333a37d1a2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//select[@id='applicant_id']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#applicant_id</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='applicant_id']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

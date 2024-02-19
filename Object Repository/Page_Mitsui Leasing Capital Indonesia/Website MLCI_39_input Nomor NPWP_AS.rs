@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Nomor NPWP_no_npwp</name>
+   <name>Website MLCI_39_input Nomor NPWP_AS</name>
    <tag></tag>
    <elementGuidId>988a5247-9605-4205-befa-4fedcaa9481c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='no_npwp']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#no_npwp</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='no_npwp']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>select_Pilih Tipe MobilMT</name>
+   <name>Website MLCI_35_Pilih Tipe Mobil_AS</name>
    <tag></tag>
    <elementGuidId>f8dc858b-6bf6-484a-9c69-2d3be2bbdfaa</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//select[@id='tipemobil']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#tipemobil</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='tipemobil']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>select_Balikpapan                          _adfa16</name>
+   <name>Website MLCI_37_Pilih Balikpapan_AS</name>
    <tag></tag>
    <elementGuidId>66f9bf30-f586-48ae-94d5-d62ec956c3e7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//select[@id='cabang_id']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#cabang_id</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='cabang_id']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
