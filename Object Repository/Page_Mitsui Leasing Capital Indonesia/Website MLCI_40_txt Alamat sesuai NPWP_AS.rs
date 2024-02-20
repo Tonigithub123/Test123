@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Nomor Telepon_phone_npwp</name>
+   <name>Website MLCI_40_txt Alamat sesuai NPWP_AS</name>
    <tag></tag>
-   <elementGuidId>c6cf5f1f-28f9-4864-8d9e-b811292e10b3</elementGuidId>
+   <elementGuidId>bd193328-9a4c-414c-b2d3-c9ce5ef10205</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='phone_npwp']</value>
+         <key>CSS</key>
+         <value>#alamat_npwp</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#phone_npwp</value>
+         <key>XPATH</key>
+         <value>//textarea[@id='alamat_npwp']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,56 +21,56 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>4bf632c6-de0c-41fa-90e4-ad3e3ab3762a</webElementGuid>
+      <value>textarea</value>
+      <webElementGuid>f3e7d6f5-f878-4903-8c13-4e532617a7aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>phone_npwp</value>
-      <webElementGuid>0de64569-731e-4b7d-ad48-61a797b1ec0c</webElementGuid>
+      <value>alamat_npwp</value>
+      <webElementGuid>1998e180-0b91-4c86-bda3-f92055862cde</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>phone_npwp</value>
-      <webElementGuid>9278c2f5-a6a0-4e69-93a9-b1fd2ecad40f</webElementGuid>
+      <value>alamat_npwp</value>
+      <webElementGuid>e8ede72d-f343-44d0-bc36-90f468f63298</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>cols</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>92e6b74e-067c-44a8-9f44-e0feaa46437c</webElementGuid>
+      <value>30</value>
+      <webElementGuid>e59c89d8-71aa-4bd1-9b7a-3616bad24fc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>9c619ea6-d172-44fd-9578-114d89180a5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>format: 1234567890 (harus angka, min 9 digit)</value>
-      <webElementGuid>bf89d3a4-be1d-48fe-85d6-152dacc6afa8</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>minlength</name>
-      <type>Main</type>
-      <value>9</value>
-      <webElementGuid>73fb38ef-354f-412e-af2b-c19506b20627</webElementGuid>
+      <value>Alamat sesuai NPWP</value>
+      <webElementGuid>23c32976-a921-411f-aa73-891b82122fd6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>maxlength</name>
       <type>Main</type>
-      <value>12</value>
-      <webElementGuid>75f4b618-0f50-4005-902c-23cb68815d59</webElementGuid>
+      <value>1024</value>
+      <webElementGuid>735912c5-1f41-4a3d-addb-e7397739974b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,46 +78,46 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>ac6e91eb-90ce-4aab-849e-6145ef595928</webElementGuid>
+      <webElementGuid>a21846ee-d119-418a-b087-2ec76b22141d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;phone_npwp&quot;)</value>
-      <webElementGuid>f11825d1-be2a-4548-9f7b-ae886fd3bb70</webElementGuid>
+      <value>id(&quot;alamat_npwp&quot;)</value>
+      <webElementGuid>d6977347-7c4a-42ef-8d6b-74b2af5770d5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='phone_npwp']</value>
-      <webElementGuid>fed0f3fa-3209-4d34-9325-6585680e71b5</webElementGuid>
+      <value>//textarea[@id='alamat_npwp']</value>
+      <webElementGuid>f30e3fd9-71c2-4659-b9b0-f9808724a8d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='phone_npwp_row']/div[2]/p/input</value>
-      <webElementGuid>a200d228-4c44-4fd4-9c86-82a886d0fbd8</webElementGuid>
+      <value>//div[@id='alamat_npwp_row']/div[2]/p/textarea</value>
+      <webElementGuid>be60f31c-d424-4abd-9945-ad0c98c20306</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[16]/div[2]/p/input</value>
-      <webElementGuid>3806e1e8-2f33-40b9-a90c-b5b94bb79129</webElementGuid>
+      <value>//div[14]/div[2]/p/textarea</value>
+      <webElementGuid>c9782520-7207-4211-afa4-9265a8f58d4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@name = 'phone_npwp' and @id = 'phone_npwp' and @type = 'text' and @placeholder = 'format: 1234567890 (harus angka, min 9 digit)']</value>
-      <webElementGuid>0a99973a-71d6-4fb7-856f-c0bffdd6a1ba</webElementGuid>
+      <value>//textarea[@name = 'alamat_npwp' and @id = 'alamat_npwp' and @placeholder = 'Alamat sesuai NPWP']</value>
+      <webElementGuid>8464a987-46fd-47f6-87dd-7907a7c32722</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

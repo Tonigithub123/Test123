@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_copy_form_agree</name>
+   <name>Website MLCI_43_input copy form agree_AS</name>
    <tag></tag>
    <elementGuidId>1969843e-0891-4b8c-bdfa-313662c1e2e4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='form_agree']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#form_agree</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='form_agree']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

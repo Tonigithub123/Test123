@@ -70,18 +70,18 @@ WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indo
 
 WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/Website MLCI_39_input Nomor NPWP_AS'), '2134324232423423423423234')
 
-WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/textarea_Alamat sesuai NPWP_alamat_npwp'), 
+WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/Website MLCI_40_txt Alamat sesuai NPWP_AS'), 
     'sddsfdfdvdev')
 
-WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/input_Nama PIC dari Pemohon_nama_pic'), 
+WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/Website MLCI_41_input Nama PIC dari Pemohon_AS'), 
     'dfe')
 
-WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/input_Nomor Telepon_phone_npwp'), 
+WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/Website MLCI_42_input Nomor Telepon_AS'), 
     '12412')
 
 WebUI.uploadFile(findTestObject('Page_Mitsui Leasing Capital Indonesia/telusuri'), 'D:/_Doc/Acer/Acer/Gambar 4.png')
 
-WebUI.click(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/input_copy_form_agree'))
+WebUI.click(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/Website MLCI_43_input copy form agree_AS'))
 
 WebUI.closeBrowser()
 

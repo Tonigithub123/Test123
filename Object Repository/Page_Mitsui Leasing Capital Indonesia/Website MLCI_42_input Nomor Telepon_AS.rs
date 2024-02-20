@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Nama PIC dari Pemohon_nama_pic</name>
+   <name>Website MLCI_42_input Nomor Telepon_AS</name>
    <tag></tag>
-   <elementGuidId>fc49522c-d212-4cab-950c-82d2acb1fce1</elementGuidId>
+   <elementGuidId>c6cf5f1f-28f9-4864-8d9e-b811292e10b3</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='nama_pic']</value>
+         <key>CSS</key>
+         <value>#phone_npwp</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#nama_pic</value>
+         <key>XPATH</key>
+         <value>//input[@id='phone_npwp']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,23 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0809c4c0-618b-4898-9ced-b3c1d232b78a</webElementGuid>
+      <webElementGuid>4bf632c6-de0c-41fa-90e4-ad3e3ab3762a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>nama_pic</value>
-      <webElementGuid>a847b1f9-a6a8-4efe-a6b0-4c6b6d937384</webElementGuid>
+      <value>phone_npwp</value>
+      <webElementGuid>0de64569-731e-4b7d-ad48-61a797b1ec0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>nama_pic</value>
-      <webElementGuid>dd2528d2-0575-4e08-b562-081120be3091</webElementGuid>
+      <value>phone_npwp</value>
+      <webElementGuid>9278c2f5-a6a0-4e69-93a9-b1fd2ecad40f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,23 +46,31 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>8cf078d7-24d8-4b37-8040-4ccc164aac41</webElementGuid>
+      <webElementGuid>92e6b74e-067c-44a8-9f44-e0feaa46437c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Nama PIC dari Pemohon</value>
-      <webElementGuid>3ecfe38c-04c1-410b-9f31-18a747913927</webElementGuid>
+      <value>format: 1234567890 (harus angka, min 9 digit)</value>
+      <webElementGuid>bf89d3a4-be1d-48fe-85d6-152dacc6afa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>minlength</name>
+      <type>Main</type>
+      <value>9</value>
+      <webElementGuid>73fb38ef-354f-412e-af2b-c19506b20627</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>maxlength</name>
       <type>Main</type>
-      <value>255</value>
-      <webElementGuid>309195f7-2d7d-445e-986c-c78fd79c1463</webElementGuid>
+      <value>12</value>
+      <webElementGuid>75f4b618-0f50-4005-902c-23cb68815d59</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,46 +78,46 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>39c5340b-dd6f-4796-ae78-4ce97caf3a6d</webElementGuid>
+      <webElementGuid>ac6e91eb-90ce-4aab-849e-6145ef595928</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;nama_pic&quot;)</value>
-      <webElementGuid>f3f6e681-a2b4-4b11-8958-5ed37f120ef7</webElementGuid>
+      <value>id(&quot;phone_npwp&quot;)</value>
+      <webElementGuid>f11825d1-be2a-4548-9f7b-ae886fd3bb70</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='nama_pic']</value>
-      <webElementGuid>74f7959b-5c5b-48ce-bf70-91f70afbe476</webElementGuid>
+      <value>//input[@id='phone_npwp']</value>
+      <webElementGuid>fed0f3fa-3209-4d34-9325-6585680e71b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='nama_pic_row']/div[2]/p/input</value>
-      <webElementGuid>1dd299e1-c89d-4801-8568-06fe534f0c34</webElementGuid>
+      <value>//div[@id='phone_npwp_row']/div[2]/p/input</value>
+      <webElementGuid>a200d228-4c44-4fd4-9c86-82a886d0fbd8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[15]/div[2]/p/input</value>
-      <webElementGuid>0402c513-5ae5-429d-8b53-23b73b1c37cd</webElementGuid>
+      <value>//div[16]/div[2]/p/input</value>
+      <webElementGuid>3806e1e8-2f33-40b9-a90c-b5b94bb79129</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@name = 'nama_pic' and @id = 'nama_pic' and @type = 'text' and @placeholder = 'Nama PIC dari Pemohon']</value>
-      <webElementGuid>b3631716-21f5-4317-91e6-24e125a8e6d7</webElementGuid>
+      <value>//input[@name = 'phone_npwp' and @id = 'phone_npwp' and @type = 'text' and @placeholder = 'format: 1234567890 (harus angka, min 9 digit)']</value>
+      <webElementGuid>0a99973a-71d6-4fb7-856f-c0bffdd6a1ba</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
