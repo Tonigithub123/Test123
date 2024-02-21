@@ -25,37 +25,37 @@ WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_
 
 WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_02_Cara Pembayaran Angsuran Pembiayaan'))
 
-WebUI.delay(3)
+WebUI.delay(1)
 
 WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/3.Test Prosedur Pembiayaan/1.Cara Pembayaran Angsuran Pembiayaan.png')
 
 WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_03_GIRO'))
 
-WebUI.delay(3)
+WebUI.delay(1)
 
 WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/3.Test Prosedur Pembiayaan/2.Giro.png')
 
 WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_04_BANK TRANSFER'))
 
-WebUI.delay(3)
+WebUI.delay(1)
 
 WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/3.Test Prosedur Pembiayaan/3.Bank Transfer.png')
 
 WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_05_Persyaratan Kredit'))
 
-WebUI.delay(3)
+WebUI.delay(1)
 
 WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/3.Test Prosedur Pembiayaan/4.Persyaratan Kredit.png')
 
 WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_06_Suku Bunga'))
 
-WebUI.delay(3)
+WebUI.delay(1)
 
 WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/3.Test Prosedur Pembiayaan/5.Suku Bunga.png')
 
 WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_07_Simulasi Kredit'))
 
-WebUI.delay(3)
+WebUI.delay(1)
 
 WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/3.Test Prosedur Pembiayaan/6.Simulasi Kredit.png')
 
@@ -80,37 +80,37 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/REP_Website MLCI_AS_
 WebUI.selectOptionByValue(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_14_Pilih Wilayah'), 
     '2', true)
 
-WebUI.delay(3)
+WebUI.delay(1)
 
 WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/3.Test Prosedur Pembiayaan/7.Simulasi Kredit yang sudah diinput.png')
 
 WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_15_Daftar Rekanan Asuransi'))
 
-WebUI.delay(3)
+WebUI.delay(1)
 
 WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/3.Test Prosedur Pembiayaan/8.Daftar Rekanan Asuransipng')
 
 WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_16_PT ASURANSI MITSUI SUMITOMO INDONESIA'))
 
-WebUI.delay(3)
+WebUI.delay(1)
 
 WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/3.Test Prosedur Pembiayaan/9.PT Asuransi Mutsui Sumimoto Indonesia.png')
 
 WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_17_PT ASURANSI CENTRAL ASIA'))
 
-WebUI.delay(3)
+WebUI.delay(1)
 
 WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/3.Test Prosedur Pembiayaan/10.Asuransi Central Asia.png')
 
 WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_18_PT ASURANSI SINAR MAS'))
 
-WebUI.delay(3)
+WebUI.delay(1)
 
 WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/3.Test Prosedur Pembiayaan/11.Asuransi Sinar Mas.png')
 
 WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_19_PT ASURANSI RAKSA PRATIKARA'))
 
-WebUI.delay(3)
+WebUI.delay(1)
 
 WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/3.Test Prosedur Pembiayaan/12.Asuransi Raksa Pratikara.png')
 
@@ -122,7 +122,7 @@ WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/3.Test Prosedur Pembi
 
 WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_21_Aplikasi Kredit'))
 
-WebUI.delay(3)
+WebUI.delay(1)
 
 WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/3.Test Prosedur Pembiayaan/14.Aplikasi Kredit.png')
 
@@ -152,50 +152,48 @@ WebUI.setText(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP0
 WebUI.selectOptionByValue(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_30_Pilih Jenis Mobil'), 
     'Baru', true)
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/Website MLCI_33_Pilih Merk Mobil_AS'), 
+WebUI.selectOptionByLabel(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_33_Pilih Merk Mobil_AS'), 
     'RENAULT', false)
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/Website MLCI_34_Pilih Model Mobil_AS'), 
+WebUI.selectOptionByLabel(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_34_Pilih Model Mobil_AS'), 
     'Kangoo', false)
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/Website MLCI_35_Pilih Tipe Mobil_AS'), 
+WebUI.selectOptionByLabel(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_35_Pilih Tipe Mobil_AS'), 
     'M/T', false)
 
-WebUI.delay(3)
+WebUI.delay(1)
 
 WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/3.Test Prosedur Pembiayaan/15.Aplikasi Kredit yang sudah diinput.png')
 
 WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_31_Dokumen Persyaratan Pengambilan BPKB'))
 
-WebUI.delay(3)
+WebUI.delay(1)
 
 WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/3.Test Prosedur Pembiayaan/16.Dokumen Persyaratan Pengambilan BPKB.png')
 
 WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_32_Formulir Permohonan Pengecekan Data'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/Website MLCI_36_Pilih Individu-AS'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_36_Pilih Individu-AS'), 
     '2', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/Website MLCI_37_Pilih Balikpapan_AS'), 
-    '15', true)
-
-WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/Website MLCI_38_input Nama Pemohon Npwp_AS'), 
+WebUI.setText(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_38_input Nama Pemohon Npwp_AS'), 
     'sdfdsfsd')
 
-WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/Website MLCI_39_input Nomor NPWP_AS'), '2134324232423423423423234')
+WebUI.setText(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_39_input Nomor NPWP_AS'), 
+    '2134324232423423423423234')
 
-WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/Website MLCI_40_txt Alamat sesuai NPWP_AS'), 
+WebUI.setText(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_40_txt Alamat sesuai NPWP_AS'), 
     'sddsfdfdvdev')
 
-WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/Website MLCI_41_input Nama PIC dari Pemohon_AS'), 
+WebUI.setText(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_41_input Nama PIC dari Pemohon_AS'), 
     'dfe')
 
-WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/Website MLCI_42_input Nomor Telepon_AS'), 
+WebUI.setText(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_42_input Nomor Telepon_AS'), 
     '12412')
 
-WebUI.click(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/Website MLCI_43_input copy form agree_AS'))
+WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_43_input copy form agree_AS'))
 
-WebUI.delay(3)
+WebUI.delay(1)
 
 WebUI.takeFullPageScreenshot('D:/_Doc/KATALON/Test Lengkap/3.Test Prosedur Pembiayaan/17.Formulir Permohonan Pengecekan Data.png')
 

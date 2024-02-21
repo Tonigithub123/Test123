@@ -21,18 +21,18 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.mitsuilease.co.id/')
 
-WebUI.click(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/div_Connect_dolphin-chat-icon'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/input_Do you have questions Come chat with _33a405'), 
+WebUI.setText(findTestObject('null'), 
     'adasfas')
 
-WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/input_land Islands_dolphin-telephone'), 
+WebUI.setText(findTestObject('null'), 
     '+6281232445')
 
-WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/input_land Islands_dolphin-email'), 
+WebUI.setText(findTestObject('null'), 
     'sgsdgg@gmail.com')
 
-WebUI.click(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/button_Please tell us about yourself_dolphi_fa9299'))
+WebUI.click(findTestObject('null'))
 
 WebUI.closeBrowser()
 

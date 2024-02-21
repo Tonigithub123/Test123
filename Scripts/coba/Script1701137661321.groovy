@@ -21,67 +21,67 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.mitsuilease.co.id/')
 
-WebUI.click(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/a_PROSEDUR PEMBIAYAAN'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/Website MLCI_ _Aplikasi Kredit_AS'))
+WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_ _Aplikasi Kredit_AS'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/input_Nama_nama'), 'asasa')
+WebUI.setText(findTestObject('null'), 'asasa')
 
-WebUI.click(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/input_Jenis Kelamin_gender'))
+WebUI.click(findTestObject('null'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/select_Pilih Kartu Identitas               _7680ec'), 
+WebUI.selectOptionByValue(findTestObject('null'), 
     'KTP', true)
 
-WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/input_Nomor Kartu Identitas_nokartu'), 
+WebUI.setText(findTestObject('null'), 
     '123131231232131')
 
-WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/input_Email_email'), 'aadqwdqwd@gmail.com')
+WebUI.setText(findTestObject('null'), 'aadqwdqwd@gmail.com')
 
-WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/input_No Telepon_no_telp'), '0821312312321')
+WebUI.setText(findTestObject('null'), '0821312312321')
 
-WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/textarea_Alamat_alamat'), 'svsdvdsvdsvds')
+WebUI.setText(findTestObject('null'), 'svsdvdsvdsvds')
 
-WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/input_Pekerjaan_kerja'), 'wfwefewfe')
+WebUI.setText(findTestObject('null'), 'wfwefewfe')
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/select_Pilih Jenis Mobil                   _9450ef'), 
+WebUI.selectOptionByValue(findTestObject('null'), 
     'Baru', true)
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/Website MLCI_33_Pilih Merk Mobil_AS'), 
+WebUI.selectOptionByLabel(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_33_Pilih Merk Mobil_AS'), 
     'RENAULT', false)
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/Website MLCI_34_Pilih Model Mobil_AS'), 
+WebUI.selectOptionByLabel(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_34_Pilih Model Mobil_AS'), 
     'Kangoo', false)
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/Website MLCI_35_Pilih Tipe Mobil_AS'), 
+WebUI.selectOptionByLabel(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_35_Pilih Tipe Mobil_AS'), 
     'M/T', false)
 
-WebUI.click(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/a_Dokumen Persyaratan Pengambilan BPKB'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/a_Formulir Permohonan Pengecekan Data'))
+WebUI.click(findTestObject('null'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/Website MLCI_36_Pilih Individu-AS'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_36_Pilih Individu-AS'), 
     '2', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/Website MLCI_37_Pilih Balikpapan_AS'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_37_Pilih Balikpapan_AS'), 
     '15', true)
 
-WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/Website MLCI_38_input Nama Pemohon Npwp_AS'), 
+WebUI.setText(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_38_input Nama Pemohon Npwp_AS'), 
     'sdfdsfsd')
 
-WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/Website MLCI_39_input Nomor NPWP_AS'), '2134324232423423423423234')
+WebUI.setText(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_39_input Nomor NPWP_AS'), '2134324232423423423423234')
 
-WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/Website MLCI_40_txt Alamat sesuai NPWP_AS'), 
+WebUI.setText(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_40_txt Alamat sesuai NPWP_AS'), 
     'sddsfdfdvdev')
 
-WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/Website MLCI_41_input Nama PIC dari Pemohon_AS'), 
+WebUI.setText(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_41_input Nama PIC dari Pemohon_AS'), 
     'dfe')
 
-WebUI.setText(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/Website MLCI_42_input Nomor Telepon_AS'), 
+WebUI.setText(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_42_input Nomor Telepon_AS'), 
     '12412')
 
-WebUI.uploadFile(findTestObject('Page_Mitsui Leasing Capital Indonesia/telusuri'), 'D:/_Doc/Acer/Acer/Gambar 4.png')
+WebUI.uploadFile(findTestObject('null'), 'D:/_Doc/Acer/Acer/Gambar 4.png')
 
-WebUI.click(findTestObject('Object Repository/Page_Mitsui Leasing Capital Indonesia/Website MLCI_43_input copy form agree_AS'))
+WebUI.click(findTestObject('Object Repository/REP_Website MLCI_AS_Lengkap/REP03_Website MLCI_AS_Prosedur Pembiayaan_Lengkap/Website MLCI_43_input copy form agree_AS'))
 
 WebUI.closeBrowser()
 
